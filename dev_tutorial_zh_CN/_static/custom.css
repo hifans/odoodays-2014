@@ -1,0 +1,5 @@
+@import url("odoo.css");
+
+.slides > article.level-1 p {
+  position: relative;
+}
